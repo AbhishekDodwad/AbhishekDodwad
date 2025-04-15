@@ -1,4 +1,4 @@
-
+<div align="center">
 <h1 align="center">Hi 👋, I'm Abhishek Dodwad</h1>
 <p align="center">
   <img src="dev-working_rounded.gif" alt="Coding Boy" width="400"/>
@@ -6,7 +6,6 @@
 <p align="center">A passionate full-stack developer currently pursuing MCA at CMRIT, Bengaluru</p>
 
 ### 💻 Tech Stack
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -18,3 +17,4 @@
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekDodwad&show_icons=true&theme=radical)
 
+</div>
