@@ -47,12 +47,24 @@ I love building robust REST APIs and full-stack applications using **Spring Boot
 
 ---
 
-### 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-dodwad-95067b22b)
-- 📧 [Email](mailto:dodwadabhishek@gmail.com)
-- 💻 [GitHub](https://github.com/AbhishekDodwad)
 
 
 
 </div>
+### 📫 Let's Connect
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhishek-dodwad-95067b22b" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:dodwadabhishek@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/AbhishekDodwad">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" />
+  </a>
+</p>
+
+
