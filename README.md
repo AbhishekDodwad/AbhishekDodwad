@@ -49,7 +49,7 @@ I love building robust REST APIs and full-stack applications using **Spring Boot
 
 ### 📫 Let's Connect
 
-<p align="left">
+<p >
   <a href="https://www.linkedin.com/in/abhishek-dodwad-95067b22b" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
   </a>&nbsp;&nbsp;
