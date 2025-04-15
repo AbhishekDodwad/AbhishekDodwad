@@ -47,12 +47,6 @@ I love building robust REST APIs and full-stack applications using **Spring Boot
 
 ---
 
-
-
-
-</div>
-### 📫 Let's Connect
-
 ### 📫 Let's Connect
 
 <p align="left">
@@ -64,7 +58,13 @@ I love building robust REST APIs and full-stack applications using **Spring Boot
   </a>&nbsp;&nbsp;
   <a href="https://github.com/AbhishekDodwad">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/107Dodwad86335?t=k2wGoOB6pyId3mxAFOJ-Eg&s=09" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X" width="30" />
   </a>
 </p>
 
+
+
+</div>
 
