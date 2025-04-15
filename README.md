@@ -47,22 +47,21 @@ I love building robust REST APIs and full-stack applications using **Spring Boot
 
 ---
 
-### 📫 Let's Connect
-
 <p >
-  <a href="https://www.linkedin.com/in/abhishek-dodwad-95067b22b" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:dodwadabhishek@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/AbhishekDodwad">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/107Dodwad86335?t=k2wGoOB6pyId3mxAFOJ-Eg&s=09" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X" width="30" />
-  </a>
+  <a href="https://www.linkedin.com/in/abhishek-dodwad-95067b22b" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:dodwadabhishek@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/AbhishekDodwad">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/107Dodwad86335?t=k2wGoOB6pyId3mxAFOJ-Eg&s=09" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/X_logo_2023.svg" alt="X" width="30" />
+  </a>
 </p>
+
 
 
 
