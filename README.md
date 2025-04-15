@@ -1,8 +1,8 @@
+
+<h1 align="center">Hi 👋, I'm Abhishek Dodwad</h1>
 <p align="center">
   <img src="dev-working_rounded.gif" alt="Coding Boy" width="400"/>
 </p>
-
-<h1 align="center">Hi 👋, I'm Abhishek Dodwad</h1>
 <p align="center">A passionate full-stack developer currently pursuing MCA at CMRIT, Bengaluru</p>
 
 ### 💻 Tech Stack
