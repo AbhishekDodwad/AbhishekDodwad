@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | Java Enthusiast | Spring Boot Specialist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=MCA+Student+at+CMRIT+Bengaluru;Backend+Systems+%26+REST+API+Developer;Building+with+Java+%26+Spring+Boot;React+%7C+MySQL+%7C+Full-Stack;Clean+Code+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=MCA+Graduate+from+CMRIT+Bengaluru;Backend+Systems+%26+REST+API+Developer;Building+with+Java+%26+Spring+Boot;React+%7C+Node.js+%7C+Full-Stack;Clean+Code+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="dev-working_rounded.gif" alt="Coding" width="400"/>
 
@@ -16,24 +16,25 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer currently pursuing my **MCA at CMRIT, Bengaluru**. I specialize in building scalable backend systems and full-stack applications with a strong focus on **Java** and **Spring Boot**.
+I'm a passionate full-stack developer and **MCA graduate from CMRIT, Bengaluru**. I specialize in building scalable backend systems and full-stack applications with a strong focus on **Java**, **Spring Boot**, and modern web technologies.
 
 ```javascript
 const abhishek = {
     location: "Bengaluru, Karnataka, IN",
-    education: "MCA at CMRIT",
-    currentFocus: ["Spring Boot APIs", "React Development", "System Design"],
+    education: "MCA Graduate - CMRIT",
+    currentFocus: ["Spring Boot APIs", "Node.js", "React Development", "System Design"],
     favoriteLanguage: "Java ☕",
     lifePhilosophy: "Write code that speaks for itself",
-    askMeAbout: ["Java", "Spring Boot", "REST APIs", "Full-Stack Development"],
+    askMeAbout: ["Java", "Spring Boot", "Node.js", "REST APIs", "Full-Stack Development"],
     funFact: "I debug with console.log() and System.out.println() 😄"
 };
 ```
 
-- 🔭 Currently working on **REST APIs** and **Spring Boot microservices**
-- 🌱 Exploring **React hooks** and modern frontend patterns
+- 🔭 Currently working on **REST APIs** with **Spring Boot** and **Node.js**
+- 🌱 Exploring **Fastify**, **Tailwind CSS**, and modern web frameworks
 - 💡 Love solving complex problems with elegant solutions
 - 🎯 Goal: Build impactful software that scales
+- 🎓 MCA Graduate specializing in software development
 
 ---
 
@@ -54,9 +55,23 @@ const abhishek = {
 <br>Spring Boot
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastify" width="48" height="48" alt="Fastify" />
+<br>Fastify
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
 <br>React
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
 <br>MySQL
@@ -65,8 +80,6 @@ const abhishek = {
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
 <br>JavaScript
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
 <br>HTML5
@@ -83,9 +96,31 @@ const abhishek = {
 <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
 <br>Postman
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
 <br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
+<br>npm
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
+<br>Maven
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br>Figma
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+<br>Bootstrap
 </td>
 </tr>
 </table>
@@ -98,9 +133,10 @@ const abhishek = {
 
 ```diff
 + Java & Spring Boot - My absolute passion! ☕
-+ Building robust REST APIs that scale 🚀
++ Building robust REST APIs with Node.js & Fastify 🚀
++ Modern UI/UX with React & Tailwind CSS 🎨
 + Clean, maintainable, and well-documented code 📝
-+ Full-stack development with React + Spring Boot 💻
++ Full-stack development across multiple technologies 💻
 ```
 
 </div>
@@ -112,19 +148,27 @@ const abhishek = {
 **Backend Development**
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-- ![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+- ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=rest&logoColor=white)
 
 **Frontend Development**
 - ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Database & Tools**
 - ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+- ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </details>
 
@@ -144,16 +188,6 @@ const abhishek = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekDodwad&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 💼 What I'm Currently Building
 
 <div align="center">
@@ -161,31 +195,9 @@ const abhishek = {
 | 🎯 Project Type | 🛠️ Technologies | 📈 Status |
 |----------------|-----------------|-----------|
 | REST APIs | Java, Spring Boot, MySQL | 🚀 Active |
-| Full-Stack Apps | React, Spring Boot | 💻 In Progress |
-| Learning | Microservices, Docker | 📚 Exploring |
-
-</div>
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekDodwad&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&area_color=F8D866" alt="Activity Graph" width="100%"/>
-
-</div>
-
----
-
-## 🌟 Pinned Repositories
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDodwad&repo=AbhishekDodwad&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/AbhishekDodwad/AbhishekDodwad)
+| Backend Services | Node.js, Fastify | 💻 In Progress |
+| Full-Stack Apps | React, Tailwind, Spring Boot | 🎨 Building |
+| Learning | Microservices, Docker, Cloud | 📚 Exploring |
 
 </div>
 
@@ -211,30 +223,10 @@ const abhishek = {
 <br><br>
 
 **💬 Feel free to reach out for:**
-- 🤝 Collaboration on Java/Spring Boot projects
-- 💡 Discussions about backend development
+- 🤝 Collaboration on Java/Spring Boot/Node.js projects
+- 💡 Discussions about backend development & system design
 - 🚀 Open source contributions
 - ☕ Just a friendly chat about tech!
-
-</div>
-
----
-
-## 🎯 2025 Goals
-
-- ✅ Master Spring Boot microservices architecture
-- ✅ Build 10+ production-ready REST APIs
-- ✅ Contribute to open-source Java projects
-- ✅ Learn cloud deployment (AWS/Azure)
-- ✅ Complete MCA with excellence
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
