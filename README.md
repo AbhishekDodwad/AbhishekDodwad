@@ -234,7 +234,7 @@ const abhishek = {
 
 <div align="center">
 
-### 💡 "First, solve the problem. Then, write the code." – John Johnson
+
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
