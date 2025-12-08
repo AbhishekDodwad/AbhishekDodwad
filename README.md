@@ -1,121 +1,96 @@
-<div align="center">
-  
-# 👋 Hi, I'm Abhishek Dodwad
+<!-- Banner / Intro -->
+<h1 align="center">Hey 👋, I'm Abhishek Dodwad</h1>
 
-### Full-Stack Developer | Java Enthusiast | Spring Boot Specialist
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=FF6A33&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;MCA+Student+at+CMRIT+%2C+Bengaluru;Love+to+build+scalable+apps+%26+clean+APIs" alt="Typing animation" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=MCA+Student+at+CMRIT+Bengaluru;Building+Robust+Backend+Systems;Passionate+About+Clean+Code;Always+Learning+New+Technologies" alt="Typing SVG" />
-
-<img src="dev-working_rounded.gif" alt="Coding" width="400"/>
-
-</div>
+<p align="center">
+  <img src="dev-working_rounded.gif" width="350" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer currently pursuing my **MCA at CMRIT, Bengaluru**. I specialize in building scalable backend systems and full-stack applications with a strong focus on **Java** and **Spring Boot**.
-
-- 🔭 Currently working on **REST APIs** and **Spring Boot applications**
-- 🌱 Continuously learning and exploring new technologies
-- 💡 Love solving complex problems with elegant solutions
-- 🎯 Goal: Build impactful software that makes a difference
+🔹 Full-stack developer who loves creating scalable, production-ready applications  
+🔹 Passionate about **backend engineering with Java & Spring Boot**  
+🔹 Work with **REST APIs, JWT authentication, PostgreSQL/MySQL & React**  
+🔹 Currently exploring **Microservices, Spring Cloud & System Design**
 
 ---
 
 ## 💻 Tech Stack
 
-### 🧡 Core Expertise
-<p align="left">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-</p>
+### ⚡ Core Technologies
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-> I'm absolutely passionate about **Java** — it's my go-to language for backend development! I love building robust REST APIs and full-stack applications using **Spring Boot**.
+### 🧩 Tech I'm Currently Working On
+![Microservices](https://img.shields.io/badge/Microservices-4285F4?style=for-the-badge)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🎨 Frontend
-<p align="left">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🗄️ Database
-<p align="left">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
+---
+
+## 📌 Featured Work
+🚧 *More projects coming soon — working on Microservices & AI-integrated apps*  
+🔹 Mass Mail Dispatcher (React + Spring Boot + EmailJS)  
+🔹 Tiger Reserve Booking System  
+🔹 Interactive Engagement & Feedback Tool  
+
+⏳ *Building more full-stack apps — stay tuned!*  
 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekDodwad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDodwad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=AbhishekDodwad&show_icons=true&theme=radical" />
+<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekDodwad&theme=radical" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekDodwad&theme=radical&hide_border=true&background=0D1117)
+<img height="255" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDodwad&layout=compact&theme=radical" />
 
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekDodwad&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekDodwad&theme=radical&no-frame=true&margin-w=10" />
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-dodwad-95067b22b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:dodwadabhishek@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/AbhishekDodwad">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://x.com/107Dodwad86335?t=k2wGoOB6pyId3mxAFOJ-Eg&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
+  <a href="https://www.linkedin.com/in/abhishek-dodwad-95067b22b" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="43"/></a>
+  <a href="mailto:dodwadabhishek@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="43"/></a>
+  <a href="https://github.com/AbhishekDodwad" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="43"/></a>
+  <a href="https://x.com/107Dodwad86335?t=k2wGoOB6pyId3mxAFOJ-Eg&s=09" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="43"/></a>
 </p>
 
 ---
 
-## 💼 What I'm Working On
-
-- 🔨 Building scalable **REST APIs** with Spring Boot
-- 🎨 Creating responsive web applications with **React**
-- 📚 Deepening my knowledge in **microservices architecture**
-- 🌐 Exploring cloud technologies and **DevOps practices**
+<p align="center">
+  👀 Profile Visits — <img src="https://komarev.com/ghpvc/?username=AbhishekDodwad&label=Visitors&color=ff4500&style=flat" />
+</p>
 
 ---
 
-## 📈 Activity Graph
+### ✨ Thanks for stopping by!
+⭐ If you like my work, feel free to star the repositories or connect with me 😊
 
-<div align="center">
-  
-[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekDodwad&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/AbhishekDodwad)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=AbhishekDodwad&color=blueviolet&style=flat-square&label=Profile+Views)
-
-⭐️ From [AbhishekDodwad](https://github.com/AbhishekDodwad)
-
-</div>
