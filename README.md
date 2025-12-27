@@ -10,5 +10,4 @@ MCA Graduate from CMRIT Bengaluru | Full-Stack Developer | Backend Developer @ [
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dodwadabhishek@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-dodwad-95067b22b)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/107Dodwad86335?t=k2wGoOB6pyId3mxAFOJ-Eg&s=09)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AbhishekDodwad)
