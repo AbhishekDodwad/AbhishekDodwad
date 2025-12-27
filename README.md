@@ -1,10 +1,10 @@
 # This is Abhishek Dodwad
 
-Full-Stack Developer | Java Enthusiast | Spring Boot Specialist | Backend Systems | REST API Developer | Building with Java & Spring Boot | React | Node.js | Clean Code Enthusiast |
+Full-Stack Developer | Java Enthusiast |  React.js | Node.js | Express.js | Spring Boot | Backend Systems | REST API Developer | Building with Java & Spring Boot |
 
 ## Designations
 
-MCA Graduate from CMRIT Bengaluru | Full-Stack Developer | Backend Developer @ [Your Company] | Java & Spring Boot Specialist
+MCA Graduate from CMRIT Bengaluru | Full-Stack Developer | Java & Spring Boot Specialist | MERN Stack Developer
 
 ## Let's connect
 
