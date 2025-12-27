@@ -1,6 +1,6 @@
 # This is Abhishek Dodwad
 
-Full-Stack Developer | Java Enthusiast |  React.js | Node.js | Express.js | Spring Boot | Backend Systems | REST API Developer | Building with Java & Spring Boot |
+Full-Stack Developer | Java Enthusiast |  React.js | Node.js | Express.js | Spring Boot | Backend Systems | REST API Developer 
 
 ## Designations
 
