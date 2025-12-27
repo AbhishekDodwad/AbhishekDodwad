@@ -4,7 +4,7 @@ Full-Stack Developer | Java Enthusiast |  React.js | Node.js | Express.js | Spri
 
 ## Designations
 
-MCA Graduate from CMRIT Bengaluru | Full-Stack Developer | Java & Spring Boot Specialist | MERN Stack Developer
+Full-stack Intern @ Dhiway | MCA Graduate from CMRIT Bengaluru | Full-Stack Developer | 
 
 ## Let's connect
 
