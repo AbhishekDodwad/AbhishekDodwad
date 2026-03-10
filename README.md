@@ -4,7 +4,7 @@ Full-Stack Developer | Java Enthusiast |  React.js | Node.js | Express.js | Spri
 
 ## Designations
 
-Full-stack Intern @ Dhiway | MCA Graduate from CMRIT Bengaluru | Full-Stack Developer | 
+Software Engineer Intern @ Dhiway | MCA Graduate from CMRIT Bengaluru | Full-Stack Developer | 
 
 ## Let's connect
 
